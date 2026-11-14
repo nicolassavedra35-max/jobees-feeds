@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "name": "Resident Evil (PS4)",
+  "games": [
+    {
+      "id": "CUSA09171",
+      "title": "Resident Evil 2",
+      "platform": "ps4",
+      "releaseDate": "2019-01-25",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09171.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/RESIDENT%20EVIL%202%20-%20[EU]%20[EN]%20[1.05].pkg",
+          "sizeBytes": 24407179264,
+          "version": "01.05",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "RESIDENT EVIL 2 - [EU] [EN] [1.05].pkg",
+          "label": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "CUSA14123",
+      "title": "Resident Evil 3",
+      "platform": "ps4",
+      "releaseDate": "2020-04-03",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA14123.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/RESIDENT%20EVIL%203%20-%20[EU]%20[EN]%20[1.05].pkg",
+          "sizeBytes": 22366650368,
+          "version": "01.05",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "RESIDENT EVIL 3 - [EU] [EN] [1.05].pkg",
+          "label": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "CUSA33388",
+      "title": "Resident Evil 4 (Remake)",
+      "platform": "ps4",
+      "releaseDate": "2023-03-24",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA33388.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/Resident%20Evil%204%20-%20[EU]%20[EN]%20[1.11].pkg",
+          "sizeBytes": 39310262272,
+          "version": "01.11",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "Resident Evil 4 - [EU] [EN] [1.11].pkg",
+          "label": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "CUSA04885",
+      "title": "Resident Evil 4 (2005)",
+      "platform": "ps4",
+      "releaseDate": "2016-08-30",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04885.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/resident%20evil%204%20(2005)%20-%20[US]%20[EN]%20[1.01].pkg",
+          "sizeBytes": 9181593600,
+          "version": "01.01",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "resident evil 4 (2005) - [US] [EN] [1.01].pkg",
+          "label": "USA"
+        }
+      ]
+    },
+    {
+      "id": "CUSA04437",
+      "title": "Resident Evil 5",
+      "platform": "ps4",
+      "releaseDate": "2016-06-28",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA04437.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/RESIDENT%20EVIL%205%20-%20[US]%20[EN]%20[1.00].pkg",
+          "sizeBytes": 16372793344,
+          "version": "01.00",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "RESIDENT EVIL 5 - [US] [EN] [1.00].pkg",
+          "label": "USA"
+        }
+      ]
+    },
+    {
+      "id": "CUSA03840",
+      "title": "Resident Evil 6",
+      "platform": "ps4",
+      "releaseDate": "2016-03-29",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03840.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/RESIDENT%20EVIL%206%20-%20[EU]%20[EN]%20[1.01].pkg",
+          "sizeBytes": 13726187520,
+          "version": "01.01",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "RESIDENT EVIL 6 - [EU] [EN] [1.01].pkg",
+          "label": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "CUSA09473",
+      "title": "Resident Evil 7 biohazard",
+      "platform": "ps4",
+      "releaseDate": "2017-01-24",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09473.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/RESIDENT%20EVIL%207%20biohazard%20-%20[EU]%20[EN]%20[1.01].pkg",
+          "sizeBytes": 34400239616,
+          "version": "01.01",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "RESIDENT EVIL 7 biohazard - [EU] [EN] [1.01].pkg",
+          "label": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "CUSA18017",
+      "title": "Resident Evil Village",
+      "platform": "ps4",
+      "releaseDate": "2021-05-07",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA18017.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/Resident%20Evil%20Village%20-%20[US]%20[EN]%20[1.12].pkg",
+          "sizeBytes": 36089954304,
+          "version": "01.12",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "Resident Evil Village - [US] [EN] [1.12].pkg",
+          "label": "USA"
+        }
+      ]
+    },
+    {
+      "id": "CUSA06212",
+      "title": "Resident Evil Revelations",
+      "platform": "ps4",
+      "releaseDate": "2017-08-29",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA06212.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/RESIDENT%20EVIL%20REVELATIONS%20-%20[EU]%20[EN]%20[1.00].pkg",
+          "sizeBytes": 16283336704,
+          "version": "01.00",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "RESIDENT EVIL REVELATIONS - [EU] [EN] [1.00].pkg",
+          "label": "EUR"
+        }
+      ]
+    },
+    {
+      "id": "CUSA00924",
+      "title": "Resident Evil Revelations 2",
+      "platform": "ps4",
+      "releaseDate": "2015-02-24",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00924.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/RESIDENT%20EVIL%20REVELATIONS%202%20-%20[US]%20[EN]%20[1.05].pkg",
+          "sizeBytes": 23306436608,
+          "version": "01.05",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "RESIDENT EVIL REVELATIONS 2 - [US] [EN] [1.05].pkg",
+          "label": "USA"
+        }
+      ]
+    },
+    {
+      "id": "CUSA03178",
+      "title": "Resident Evil Origins Collection",
+      "platform": "ps4",
+      "releaseDate": "2016-01-19",
+      "art": { "cover": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA03178.png" },
+      "releases": [
+        {
+          "url": "https://archive.org/download/ps4-fpkg-collection-english-r/Resident%20Evil%20Origins%20Collection%20-%20[US]%20[EN]%20[1.01].pkg",
+          "sizeBytes": 21456420864,
+          "version": "01.01",
+          "format": "pkg",
+          "provider": "archive.org",
+          "filename": "Resident Evil Origins Collection - [US] [EN] [1.01].pkg",
+          "label": "USA"
+        }
+      ]
+    }
+  ]
+}
